@@ -1,0 +1,16 @@
+body {
+    background-color:honeydew;
+}
+
+h1 {
+    color:blue;
+    text-align: center;
+}
+p{
+    color:blue;
+}
+div{
+    background-color:aqua;
+    margin: auto
+    
+}
